@@ -42,15 +42,6 @@ looking_for : Full-time Full Stack Developer role
 
 <div align="center">
 
-<b>— Languages —</b><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-<br/><br/>
-
 <b>— Frontend —</b><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
@@ -66,6 +57,15 @@ looking_for : Full-time Full Stack Developer role
 <img src="https://img.shields.io/badge/Webhooks-2c5364?style=flat" alt="Webhooks" />
 <br/><br/>
 
+<b>— Languages —</b><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<br/><br/>
+
 <b>— Databases & Cloud —</b><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -76,19 +76,6 @@ looking_for : Full-time Full Stack Developer role
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 <br/><br/>
 
-<b>— Security & Auth —</b><br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/bcrypt-3B82F6?style=flat" alt="bcrypt" />
-<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat" alt="RBAC" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod" />
-<br/><br/>
-
-<b>— AI Integration —</b><br/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" />
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat" alt="Prompt Engineering" />
-<br/><br/>
-
 <b>— Tools & DevOps —</b><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -96,6 +83,19 @@ looking_for : Full-time Full Stack Developer role
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+<b>— AI Integration —</b><br/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat" alt="Prompt Engineering" />
+<br/><br/>
+
+<b>— Security & Auth —</b><br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/bcrypt-3B82F6?style=flat" alt="bcrypt" />
+<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat" alt="RBAC" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod" />
+<br/><br/>
 
 </div>
 
