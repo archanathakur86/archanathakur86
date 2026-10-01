@@ -161,18 +161,29 @@ High-performance cafe website — **no framework**.
 
 ---
 
-### `~/stats` — Numbers don't lie
+### `~/impact` — What I've delivered
 
-<div align="center">
+```yaml
+access control : 4-tier RBAC enforced at route and resource level
+payments       : PayU with SHA-512 signed requests + verified webhooks
+data integrity : atomic seat reservation to prevent overbooking
+api surface    : 9 REST modules in a single production platform
+ai             : 10+ AI features in one app · Groq multi-model fallback
+performance    : 98+ Google Lighthouse score on a framework-free site
+deployed on    : AWS EC2 · Vercel · Netlify · Render
+```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=archanathakur86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanathakur86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+**How the ticketing platform handles a booking** — the system design I built at Pihow Services:
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=archanathakur86&theme=tokyonight&hide_border=true" />
-
-</div>
+```mermaid
+flowchart LR
+    A[User picks seats] --> B[Atomic seat reservation<br/>MongoDB]
+    B --> C[PayU request<br/>SHA-512 signed]
+    C --> D[PayU gateway]
+    D --> E[Webhook<br/>hash verified]
+    E --> F[Booking confirmed<br/>PDF ticket + QR]
+    F --> G[QR scan<br/>attendance check-in]
+```
 
 ---
 
