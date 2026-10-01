@@ -103,14 +103,14 @@ looking_for : Full-time Full Stack Developer role
 
 #### 🦉 WhySo Buddy — Voice-First AI Companion for Kids &nbsp; ![New](https://img.shields.io/badge/NEW-7f5af0?style=flat-square)
 A conversational AI built for children: they speak, and an animated character responds aloud in their own language.
-
+ 
 **Feature highlights**
 - **Real-time speech-to-speech pipeline** — live voice input with interim transcript and auto-stop on silence, spoken replies with per-user pitch & speed control
 - **Multilingual by design** — replies automatically match the user's language (English, Hindi, Hinglish); prompts tuned for short, age-appropriate answers
 - **Resilient AI layer** — Groq multi-model fallback chain, so the user always gets a response even if a model fails
 - **Persistent memory** — per-user accounts (SHA-256 + bcrypt, session tokens), searchable chat history on SQLite, and context carried across sessions
 - **Expressive character system** — five hand-built animated SVG mascots that react to listening, thinking and speaking states
-
+  
 `React` `Vite` `Node.js` `Express` `SQLite` `Groq` `Web Speech API` `Web Audio API`
 
 [🔗 Live Demo](https://kids-ai-sts.onrender.com) · [💻 Code](https://github.com/archanathakur86/Kids-AI-STS-)
@@ -197,6 +197,21 @@ High-performance cafe website — **no framework**.
         └─ Payments (PayU) · QR attendance · 4-tier RBAC · AWS EC2 deployment
 ```
 
+---
+ 
+### `~/beyond-code` — Volunteering & Leadership
+ 
+```text
+🤝 Academic Facilitator (Volunteer)   → Navgurukul   (Aug 2025 – Mar 2026)
+   ├─ Supported peers academically: resolved doubts and explained difficult concepts
+   ├─ Removed learning roadblocks and tracked individual progress
+   └─ Organized activities and routines to strengthen students' studies
+ 
+📣 Outreach Facilitator (Volunteer)   → Navgurukul   (Feb 2025 – Aug 2025)
+   ├─ Created video reels and managed the campus social media account
+   └─ Communicated with sponsors and partners to build the campus's online presence
+```
+ 
 ---
 
 ### `~/impact` — What I've delivered
