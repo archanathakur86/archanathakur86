@@ -1,205 +1,264 @@
-<!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=200&section=header&text=Archana%20Thakur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6EE7B7,50:3B82F6,100:8B5CF6&height=230&section=header&text=Archana%20Thakur&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Security-minded%20%C2%B7%20AI%20Builder&descSize=19&descAlignY=63&animation=fadeIn" width="100%" alt="Archana Thakur banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+production-ready+web+apps;MERN+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;AI-powered+products+with+Groq+%26+Gemini;Open+to+Full-Time+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=760&height=40&lines=I+ship+production-ready+web+apps;Payments+%C2%B7+RBAC+%C2%B7+Webhooks+%C2%B7+AWS;Turning+LLMs+into+real+product+features;Open+to+full-time+Full+Stack+roles+%F0%9F%9A%80" alt="Typing animation" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=archanathakur86&label=Profile%20Views&color=7f5af0&style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-Full--time%20Full%20Stack-2ea44f?style=for-the-badge)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Sirmaur%2C%20India-3B82F6?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/BCA%20CGPA-9.65%20%2F%2010-8B5CF6?style=for-the-badge)
 
-<br/><br/>
-
-<a href="https://linkedin.com/in/archana-thakur-9b66a4338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:archanathakurs246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/archanathakur86"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/archana-thakur-9b66a4338"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:archanathakurs246@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
 
-### `~/about` — A bit about me
+> ### 👋 Hi, I'm Archana
+> I build **full-stack products that go beyond the demo**: secure role-based systems, real payment flows, and AI features that actually ship. I've already deployed a **live event-ticketing platform with PayU payments on AWS**, built **ERP backend modules** during my second internship, and created **AI products** powered by Groq & Gemini.
+> I'm a final-year BCA student looking for my first **full-time Full Stack Developer** role.
 
-```yaml
-name        : Archana Thakur
-role        : Full Stack Developer
-location    : Sirmaur, Himachal Pradesh, India 🇮🇳
-education   : BCA @ Eternal University (CGPA 9.65 / 10) — Expected June 2027
-experience  : 2 internships (Pihow Services, Codesoar Technologies)
-focus       : Production web apps · RBAC & Security · Payments · AI integration
-currently   : Building AI-powered products & sharpening system design
-looking_for : Full-time Full Stack Developer role
-```
+<br/>
 
-> 💡 I don't just build UIs — I build **secure, deployable systems**: payment gateways, role-based access, webhooks, and AI pipelines that actually run in production.
-
----
-
-### `~/stack` — What I build with
+## ⚡ By the numbers
 
 <div align="center">
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,framer" /><br/><br/>
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" /><br/><br/>
-**Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws" /><br/><br/>
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,bash,vscode" /><br/><br/>
-**AI & Security**<br/>
-<img src="https://img.shields.io/badge/Groq-Llama%203.3--70B-F55036?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat-square" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+| 🎓 **9.65 / 10** | 💼 **2** | 🔐 **4-tier** | 🧩 **9** |
+|:---:|:---:|:---:|:---:|
+| BCA CGPA | Full-stack internships | RBAC system in production | REST API modules in one platform |
+
+| 🤖 **10+** | 💳 **PayU** | 🚀 **98+** | ☁️ **AWS** |
+|:---:|:---:|:---:|:---:|
+| AI features in one app | SHA-512 signed payments + webhooks | Google Lighthouse score | EC2 deployment |
 
 </div>
 
----
+<br/>
 
-### `~/projects` — Things I've shipped
+## 🧭 What I'm good at
 
 <table>
 <tr>
-<td valign="top">
+<td width="33%" valign="top">
 
-#### 🦉 WhySo Buddy — Voice AI Buddy for Kids &nbsp; ![New](https://img.shields.io/badge/NEW-7f5af0?style=flat-square)
-Kids talk, an animated cartoon character answers back in their own language.
+### 🔐 Secure Backends
+Role-based access, JWT & HttpOnly cookies, **bcrypt**, Zod validation, rotating refresh tokens, audit logging.
 
-- 🎙️ **Speech-to-speech chat** with live voice input, spoken replies & adjustable pitch/speed
-- 🎭 **5 animated SVG mascots**, with multilingual replies (English / Hindi / Hinglish)
-- 🔐 **SHA-256 + bcrypt auth**, per-user chat history on SQLite & **Groq multi-model fallback**
+</td>
+<td width="33%" valign="top">
 
-`React` `Vite` `Node.js` `Express` `SQLite` `Groq` `Web Speech API`
+### 💳 Real-World Systems
+Payment gateways, **webhook verification**, atomic seat booking (no overbooking), QR check-in, PDF tickets, AWS deployment.
 
-[🔗 Live Demo](https://kids-ai-sts.onrender.com) · [💻 Code](https://github.com/archanathakur86/Kids-AI-STS-)
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI Products
+LLM pipelines with **Groq (Llama 3.3-70B)** & Gemini, structured JSON prompting, cost-saving diff algorithms, multimodal chat, voice-first UX.
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+## 🚀 Featured work
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 WhySo — AI Team Collaboration Platform
-Manage projects, versioned code files, tasks & discussions with role-based access.
+### 🎟️ Event Ticketing & RBAC Platform
+`Production` · Built at **Pihow Services**
 
-- Custom **LCS-based diff algorithm** for AI code review → cuts API cost, gives severity-rated risk reports
+End-to-end ticketing system, shipped **independently** and deployed on **AWS EC2**.
+
+- **4-tier RBAC** via custom Express middleware
+- **PayU** with SHA-512 signed requests + webhook verification
+- **Atomic seat reservation** to stop overbooking
+- PDF tickets with **QR codes**, QR attendance, bulk email, CSV reports
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 WhySo — AI Team Collaboration
+`Live` · MERN + LLMs
+
+Teams manage projects, **versioned code files**, tasks & discussions with role-based access.
+
+- Custom **LCS-based diff algorithm** → cheaper AI code reviews with severity-rated risk reports
 - **10+ AI features**: auto-tagging, duplicate detection, semantic search, project health scoring
-- Structured **JSON-mode prompting** with Groq (Llama 3.3-70B / 3.1-8B)
+- Structured **JSON-mode prompting** on Llama 3.3-70B / 3.1-8B
 
-`React` `Node.js` `Express` `MongoDB` `Cloudinary` `Groq`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-[🔗 Live Demo](https://frontend-mu-lemon-65.vercel.app) · [💻 Code](https://github.com/archanathakur86/WhySo---AI-powered-Collaboration)
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 Nexus AI — Secure Multimodal Chat
-Conversational AI platform handling both text and image inputs.
-
-- **Node.js reverse proxy** hides AI API credentials from the client
-- Async **streaming pipeline** for sub-second token latency
-- **FastAPI** service for multimodal (text + image) processing
-
-`React` `Node.js` `Python` `FastAPI` `LLM`
-
-[🔗 Live Demo](https://ai-assistant-murex-psi.vercel.app) · [💻 Code](https://github.com/archanathakur86/AI-assistant)
+[🔗 **Live Demo**](https://frontend-mu-lemon-65.vercel.app/) · [💻 **Source Code**](https://github.com/archanathakur86/WhySo---AI-powered-Collaboration)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎟️ Event Ticketing & RBAC Platform
-Production platform built at Pihow Services, deployed on AWS EC2.
+### 🦉 WhySo Kids — Voice AI Buddy
+`New`
 
-- **4-tier RBAC** with custom Express middleware
-- **PayU** integration — SHA-512 signed requests + webhook verification
-- **Atomic seat reservation** to prevent overbooking
-- PDF tickets with **QR codes**, QR check-in, bulk email, audit logs across **9 REST modules**
+Kids **speak**, an animated cartoon character **talks back** in their own language.
 
-`MongoDB` `Express` `JWT` `bcrypt` `AWS EC2`
+- Full **speech-to-speech loop** with live mic input & adjustable voice
+- **5 hand-built animated SVG mascots** + multilingual replies (English / Hindi / Hinglish)
+- **SHA-256 + bcrypt** auth, SQLite chat history & **Groq multi-model fallback**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Web Speech](https://img.shields.io/badge/Web%20Speech%20API-8B5CF6?style=flat-square)
+
+[💻 **Source Code**](https://github.com/archanathakur86/Kids-AI-STS-)
 
 </td>
 <td width="50%" valign="top">
 
-#### ☕ Luxe & Ember Cafe
-High-performance cafe website — **no framework**.
+### 💬 Nexus AI — Secure Multimodal Chat
+`Live` · React + Node + FastAPI
 
-- Semantic HTML, modern CSS, vanilla JS
-- **98+ Google Lighthouse score**
+Conversational platform for **text + image** inputs, built with security in mind.
 
-`HTML` `CSS` `JavaScript`
+- **Node.js reverse proxy** hides AI credentials from the browser
+- Async **streaming pipeline** for sub-second token latency
+- **FastAPI** microservice for multimodal request processing
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[🔗 Live Demo](https://embercafe.netlify.app) · [💻 Code](https://github.com/archanathakur86/Ember-cafe)
+[🔗 **Live Demo**](https://ai-assistant-murex-psi.vercel.app/) · [💻 **Source Code**](https://github.com/archanathakur86/AI-assistant)
+
 </td>
 </tr>
 </table>
 
----
-
-### `~/experience` — Where I've been
-
-```text
-💼 Full Stack Developer Intern   → Codesoar Technologies   (Jan 2026 – Jun 2026)
-   ├─ FOA: Swiggy-style restaurant discovery & ordering platform
-   │    └─ owner/admin/user roles, admin-approval onboarding, location-based discovery
-   └─ CodeSoar ERP: auth, settings & clients modules
-        └─ Node.js · Express · TypeScript · Drizzle ORM · PostgreSQL
-        └─ JWT with rotating refresh tokens · Zod validation · RBAC routes
-
-💼 Full Stack Developer Intern   → Pihow Services          (Aug 2025 – Dec 2025)
-   └─ Independently built & shipped an event ticketing platform
-        └─ Payments (PayU) · QR attendance · 4-tier RBAC · AWS EC2 deployment
-```
-
----
-
-### `~/stats` — Numbers don't lie
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=archanathakur86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanathakur86&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=archanathakur86&theme=tokyonight&hide_border=true" />
+☕ **Luxe & Ember Cafe** — a framework-free cafe website (HTML · CSS · vanilla JS) scoring **98+ on Google Lighthouse**.<br/>[🔗 **Live Demo**](https://embercafe.netlify.app/) · [💻 **Source Code**](https://github.com/archanathakur86/Ember-cafe)
 
 </div>
 
----
+<br/>
 
-### `~/certifications` — Always learning
+## 💼 Experience
 
-```text
-🎓 Prompt Engineering                      → Coursera
-🎓 Intro to Git and GitHub                 → Coursera
-🎓 Version Control                         → Coursera
-☁️  ML Foundations                          → AWS
-🤖 Generative AI Foundations               → AWS
-📣 Digital & Social Media Marketing        → Coursera
-```
+<details open>
+<summary><b>Full Stack Developer Intern · Codesoar Technologies</b> &nbsp;·&nbsp; <i>Jan 2026 – Jun 2026</i></summary>
 
----
+<br/>
 
-### `~/connect` — Let's talk
+**🍽️ FOA — Restaurant Discovery & Ordering Platform** *(Swiggy-style)*
+- Built REST APIs and role-based logic for **owner, admin and user** permissions
+- Shipped an **admin-approval workflow** with document verification before listings go live, plus **location-based discovery**
 
-I'm actively looking for a **full-time Full Stack Developer** role. If you're hiring, building something interesting, or want to collaborate — reach out!
+**🏢 CodeSoar ERP — Multi-module ERP system**
+- Built backend modules for **authentication, settings and clients** using Node.js, Express, **TypeScript, Drizzle ORM, PostgreSQL**
+- Implemented **JWT with rotating refresh tokens**, **Zod** validation and **RBAC-protected routes**
+
+</details>
+
+<details open>
+<summary><b>Full Stack Developer Intern · Pihow Services</b> &nbsp;·&nbsp; <i>Aug 2025 – Dec 2025</i></summary>
+
+<br/>
+
+- Independently designed, built and **deployed to AWS EC2** a full-stack event-ticketing & RBAC platform
+- Integrated **PayU** (SHA-512 signed requests, webhook verification) with **atomic seat reservation**
+- Secured attendance via **QR check-in**, HttpOnly-cookie **JWT + bcrypt**, bulk email and full **login/logout audit logs** across **9 REST modules**
+
+</details>
+
+<br/>
+
+## 🛠️ Toolbox
+
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,framer" alt="frontend" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="backend" /></td>
+</tr>
+<tr>
+<td><b>Database & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,aws" alt="databases" /></td>
+</tr>
+<tr>
+<td><b>DevOps & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,postman,vscode" alt="tools" /></td>
+</tr>
+<tr>
+<td><b>AI & Security</b></td>
+<td>
+
+![Groq](https://img.shields.io/badge/Groq%20(Llama%203.3)-F55036?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-8B5CF6?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-3B82F6?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| **🎓 Education** | **BCA** — Eternal University · **CGPA 9.65 / 10** · Expected June 2027 |
+| **☁️ AWS** | ML Foundations · Generative AI Foundations |
+| **📘 Coursera** | Prompt Engineering · Intro to Git & GitHub · Version Control · Digital & Social Media Marketing |
+
+<br/>
+
+## 🌱 Currently
+
+- 🔭 Building **AI-powered products** that mix LLMs with solid backend engineering
+- 📚 Going deeper into **system design** and **TypeScript + PostgreSQL** backends
+- 🎯 Looking for a **full-time Full Stack Developer** role where I can ship real features
+
+<br/>
+
+## 🤝 Hiring? Here's why we might be a great fit
+
+✅ I've **shipped to production** (payments, RBAC, AWS), not just built tutorials<br/>
+✅ I think about **security first**: auth, validation, webhooks, audit logs<br/>
+✅ I work **independently** and finish what I start (2 internships, 4+ full projects)<br/>
+✅ I combine **solid backend skills with modern AI tooling**
 
 <div align="center">
 
-<a href="https://linkedin.com/in/archana-thakur-9b66a4338"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:archanathakurs246@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+
+<a href="https://linkedin.com/in/archana-thakur-9b66a4338"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:archanathakurs246@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-archanathakurs246%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=archanathakur86&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:6EE7B7&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
