@@ -202,12 +202,12 @@ High-performance cafe website — **no framework**.
 ### `~/beyond-code` — Volunteering & Leadership
  
 ```text
-🤝 Academic Facilitator (Volunteer)   → Navgurukul   (Aug 2025 – Mar 2026)
+- Academic Facilitator (Volunteer)   → Navgurukul   (Aug 2025 – Mar 2026)
    ├─ Supported peers academically: resolved doubts and explained difficult concepts
    ├─ Removed learning roadblocks and tracked individual progress
    └─ Organized activities and routines to strengthen students' studies
  
-📣 Outreach Facilitator (Volunteer)   → Navgurukul   (Feb 2025 – Aug 2025)
+- Outreach Facilitator (Volunteer)   → Navgurukul   (Feb 2025 – Aug 2025)
    ├─ Created video reels and managed the campus social media account
    └─ Communicated with sponsors and partners to build the campus's online presence
 ```
