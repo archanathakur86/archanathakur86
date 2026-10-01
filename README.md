@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=200&section=header&text=Archana%20Thakur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+production-ready+web+apps;MERN+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;AI-powered+products+with+Groq+%26+Gemini;Open+to+Full-Time+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+production-ready+web+apps;MERN+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Creating+AI-powered+products;Open+to+Full-Time+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -39,24 +39,77 @@ looking_for : Full-time Full Stack Developer role
 
 ### `~/stack` — What I build with
 
-<div align="center">
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,framer" /><br/><br/>
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" /><br/><br/>
-**Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,aws" /><br/><br/>
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,bash,vscode" /><br/><br/>
-**AI & Security**<br/>
-<img src="https://img.shields.io/badge/Groq-Llama%203.3--70B-F55036?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat-square" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-
-</div>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/REST%20APIs-7f5af0?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Webhooks-2c5364?style=flat-square" alt="Webhooks" />
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS%20(EC2%2C%20S3)-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS (EC2, S3)" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</td>
+</tr>
+<tr>
+<td><b>Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
+<img src="https://img.shields.io/badge/bcrypt-3B82F6?style=flat-square" alt="bcrypt" />
+<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat-square" alt="RBAC" />
+<img src="https://img.shields.io/badge/Zod%20Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod Validation" />
+</td>
+</tr>
+<tr>
+<td><b>AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Groq%20(Llama%203.3)-F55036?style=flat-square" alt="Groq (Llama 3.3)" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/LLM%20Integration-2c5364?style=flat-square" alt="LLM Integration" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -171,18 +224,6 @@ api surface    : 9 REST modules in a single production platform
 ai             : 10+ AI features in one app · Groq multi-model fallback
 performance    : 98+ Google Lighthouse score on a framework-free site
 deployed on    : AWS EC2 · Vercel · Netlify · Render
-```
-
-**How the ticketing platform handles a booking** — the system design I built at Pihow Services:
-
-```mermaid
-flowchart LR
-    A[User picks seats] --> B[Atomic seat reservation<br/>MongoDB]
-    B --> C[PayU request<br/>SHA-512 signed]
-    C --> D[PayU gateway]
-    D --> E[Webhook<br/>hash verified]
-    E --> F[Booking confirmed<br/>PDF ticket + QR]
-    F --> G[QR scan<br/>attendance check-in]
 ```
 
 ---
