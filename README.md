@@ -3,11 +3,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=200&section=header&text=Archana%20Thakur&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+production-ready+web+apps;MERN+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Creating+AI-powered+products;Open+to+Full-Time+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+production-ready+web+applications;MERN+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Creating+AI-powered+products;Open+to+Full-Time+Full+Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=archanathakur86&label=Profile%20Views&color=7f5af0&style=flat-square" />
+<img src="https://img.shields.io/badge/BCA%20CGPA-9.65%20%2F%2010-7f5af0?style=flat-square" />
+<img src="https://img.shields.io/badge/Experience-2%20Internships-7f5af0?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" />
 
 <br/><br/>
@@ -28,7 +29,7 @@ role        : Full Stack Developer
 location    : Sirmaur, Himachal Pradesh, India 🇮🇳
 education   : BCA @ Eternal University (CGPA 9.65 / 10) — Expected June 2027
 experience  : 2 internships (Pihow Services, Codesoar Technologies)
-focus       : Production web apps · RBAC & Security · Payments · AI integration
+focus       : Production web applications · RBAC & Security · Payments · AI integration
 currently   : Building AI-powered products & sharpening system design
 looking_for : Full-time Full Stack Developer role
 ```
@@ -39,77 +40,64 @@ looking_for : Full-time Full Stack Developer role
 
 ### `~/stack` — What I build with
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/REST%20APIs-7f5af0?style=flat-square" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Webhooks-2c5364?style=flat-square" alt="Webhooks" />
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
-</td>
-</tr>
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS%20(EC2%2C%20S3)-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS (EC2, S3)" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-</td>
-</tr>
-<tr>
-<td><b>Security</b></td>
-<td>
-<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT Auth" />
-<img src="https://img.shields.io/badge/bcrypt-3B82F6?style=flat-square" alt="bcrypt" />
-<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat-square" alt="RBAC" />
-<img src="https://img.shields.io/badge/Zod%20Validation-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod Validation" />
-</td>
-</tr>
-<tr>
-<td><b>AI</b></td>
-<td>
-<img src="https://img.shields.io/badge/Groq%20(Llama%203.3)-F55036?style=flat-square" alt="Groq (Llama 3.3)" />
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/LLM%20Integration-2c5364?style=flat-square" alt="LLM Integration" />
-</td>
-</tr>
-</table>
+<div align="center">
+
+<b>— Languages —</b><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<br/><br/>
+
+<b>— Frontend —</b><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+<br/><br/>
+
+<b>— Backend —</b><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/REST%20APIs-7f5af0?style=flat" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Webhooks-2c5364?style=flat" alt="Webhooks" />
+<br/><br/>
+
+<b>— Databases & Cloud —</b><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black" alt="Supabase" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<br/><br/>
+
+<b>— Security & Auth —</b><br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/bcrypt-3B82F6?style=flat" alt="bcrypt" />
+<img src="https://img.shields.io/badge/RBAC-7f5af0?style=flat" alt="RBAC" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod" />
+<br/><br/>
+
+<b>— AI Integration —</b><br/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat" alt="Groq" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat" alt="Prompt Engineering" />
+<br/><br/>
+
+<b>— Tools & DevOps —</b><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
 
 ---
 
@@ -119,14 +107,17 @@ looking_for : Full-time Full Stack Developer role
 <tr>
 <td valign="top">
 
-#### 🦉 WhySo Buddy — Voice AI Buddy for Kids &nbsp; ![New](https://img.shields.io/badge/NEW-7f5af0?style=flat-square)
-Kids talk, an animated cartoon character answers back in their own language.
+#### 🦉 WhySo Buddy — Voice-First AI Companion for Kids &nbsp; ![New](https://img.shields.io/badge/NEW-7f5af0?style=flat-square)
+A conversational AI built for children: they speak, and an animated character responds aloud in their own language.
 
-- 🎙️ **Speech-to-speech chat** with live voice input, spoken replies & adjustable pitch/speed
-- 🎭 **5 animated SVG mascots**, with multilingual replies (English / Hindi / Hinglish)
-- 🔐 **SHA-256 + bcrypt auth**, per-user chat history on SQLite & **Groq multi-model fallback**
+**Feature highlights**
+- **Real-time speech-to-speech pipeline** — live voice input with interim transcript and auto-stop on silence, spoken replies with per-user pitch & speed control
+- **Multilingual by design** — replies automatically match the user's language (English, Hindi, Hinglish); prompts tuned for short, age-appropriate answers
+- **Resilient AI layer** — Groq multi-model fallback chain, so the user always gets a response even if a model fails
+- **Persistent memory** — per-user accounts (SHA-256 + bcrypt, session tokens), searchable chat history on SQLite, and context carried across sessions
+- **Expressive character system** — five hand-built animated SVG mascots that react to listening, thinking and speaking states
 
-`React` `Vite` `Node.js` `Express` `SQLite` `Groq` `Web Speech API`
+`React` `Vite` `Node.js` `Express` `SQLite` `Groq` `Web Speech API` `Web Audio API`
 
 [🔗 Live Demo](https://kids-ai-sts.onrender.com) · [💻 Code](https://github.com/archanathakur86/Kids-AI-STS-)
 
