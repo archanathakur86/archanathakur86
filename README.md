@@ -146,6 +146,26 @@ A conversational AI built for children: they speak, and an animated character re
 </td>
 <td width="50%" valign="top">
 
+<td valign="top" width="50%">
+  <h3>🎟️ Event Ticketing & RBAC Platform</h3>
+  <p>
+    Production ticketing platform built during my internship at Pihow Services and deployed on AWS EC2.
+    Built for organisers and attendees, with strict role boundaries and payments that cannot be spoofed.
+  </p>
+  <ul>
+    <li><b>4-tier RBAC</b>: Super Admin, Coordinator, Student and Administration roles, with event-ownership checks on every action</li>
+    <li><b>PayU payments</b>: SHA-512 signed requests, and webhook verification that rejects fake callbacks</li>
+    <li><b>No overbooking</b>: atomic MongoDB updates, so seats stay correct even when many users book at once</li>
+    <li><b>PDF tickets with QR codes</b>, QR check-in, bulk export, and a CSV report joining ticket, payment and attendance data</li>
+    <li><b>Secure auth</b>: HttpOnly-cookie JWT with bcrypt, login and logout audit logs, and bulk email notifications</li>
+    <li><b>9 REST API modules</b> with a React frontend (Zustand state, QR scanner, Recharts admin dashboards)</li>
+  </ul>
+  <p>
+    <code>React</code> <code>Zustand</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+    <code>JWT</code> <code>bcrypt</code> <code>PayU</code> <code>Recharts</code> <code>AWS EC2</code>
+  </p>
+</td>
+
 #### 💬 Nexus AI — Secure Multimodal Chat
 Conversational AI platform handling both text and image inputs.
 
@@ -160,19 +180,6 @@ Conversational AI platform handling both text and image inputs.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🎟️ Event Ticketing & RBAC Platform
-Production platform built at Pihow Services, deployed on AWS EC2.
-
-- **4-tier RBAC** with custom Express middleware
-- **PayU** integration — SHA-512 signed requests + webhook verification
-- **Atomic seat reservation** to prevent overbooking
-- PDF tickets with **QR codes**, QR check-in, bulk email, audit logs across **9 REST modules**
-
-`MongoDB` `Express` `JWT` `bcrypt` `AWS EC2`
-
-</td>
 <td width="50%" valign="top">
 
 #### ☕ Luxe & Ember Cafe
