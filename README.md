@@ -122,18 +122,27 @@ A conversational AI built for children: they speak, and an animated character re
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### 🧠 WhySo — AI Team Collaboration Platform
-Manage projects, versioned code files, tasks & discussions with role-based access.
-
-- Custom **LCS-based diff algorithm** for AI code review → cuts API cost, gives severity-rated risk reports
-- **10+ AI features**: auto-tagging, duplicate detection, semantic search, project health scoring
-- Structured **JSON-mode prompting** with Groq (Llama 3.3-70B / 3.1-8B)
-
-`React` `Node.js` `Express` `MongoDB` `Cloudinary` `Groq`
-
-[🔗 Live Demo](https://frontend-mu-lemon-65.vercel.app) · [💻 Code](https://github.com/archanathakur86/WhySo---AI-powered-Collaboration)
-
+  <h3>🧾 ClientSphere: Freelancer Client Workspace</h3>
+  <p>
+    One calm place for client work: paste a client's brief and get milestones, prices and scope with AI,
+    then share a private portal where clients approve work without creating an account.
+  </p>
+  <ul>
+    <li><b>Brief to proposal</b>: Groq JSON-mode prompting turns a client email into editable milestones, amounts, due dates and assumptions</li>
+    <li><b>Magic-link client portal</b>: approvals, change requests, and screenshot or file attachments, with no client accounts</li>
+    <li><b>AI progress updates</b> and <b>scope-creep detection</b> on every client message, with a polite reply ready to copy</li>
+    <li><b>Real-time collaboration</b>: Socket.io notifications, @mentions, presence, and deep links into the right project tab</li>
+    <li><b>Search with sources</b>: exact and semantic matching across notes, files, messages, milestones and tasks</li>
+    <li><b>Email invites over HTTPS</b> via Brevo, and Stripe Checkout with webhook-driven invoice status</li>
+  </ul>
+  <p>
+    <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+    <code>Socket.io</code> <code>Groq</code> <code>Stripe</code> <code>Cloudinary</code> <code>Brevo</code>
+  </p>
+  <p>
+    <a href="https://frontend-mu-lemon-65.vercel.app">🔗 Live Demo</a> ·
+    <a href="https://github.com/archanathakur86/WhySo---AI-powered-Collaboration">💻 Code</a>
+  </p>
 </td>
 <td width="50%" valign="top">
 
