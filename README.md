@@ -101,6 +101,33 @@ looking_for : Full-time Full Stack Developer role
 <tr>
 <td width="50%" valign="top">
 
+<h3>🦉 WhySo Buddy: Voice-First AI Companion for Kids</h3>
+
+<p>
+  A conversational AI built for children. They speak, and an animated character responds aloud in their own language.
+</p>
+
+<ul>
+  <li><b>Real-time speech-to-speech pipeline</b>: live voice input with interim transcript, auto-stop on silence, and spoken replies with per-user pitch and speed control</li>
+  <li><b>Multilingual by design</b>: replies match the user's language (English, Hindi, Hinglish), with prompts tuned for short, age-appropriate answers</li>
+  <li><b>Resilient AI layer</b>: Groq multi-model fallback chain, so the user always gets a response</li>
+  <li><b>Persistent memory</b>: per-user accounts (SHA-256 + bcrypt), searchable chat history on SQLite, and context carried across sessions</li>
+  <li><b>Expressive character system</b>: five animated SVG mascots that react to listening, thinking and speaking</li>
+</ul>
+
+<p>
+  <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>SQLite</code>
+  <code>Groq</code> <code>Web Speech API</code> <code>Web Audio API</code>
+</p>
+
+<p>
+  <a href="https://kids-ai-sts.onrender.com">🔗 Live Demo</a> ·
+  <a href="https://github.com/archanathakur86/Kids-AI-STS-">💻 Code</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 <h3>🧾 ClientSphere: Freelancer Client Workspace</h3>
 
 <p>
@@ -128,6 +155,8 @@ looking_for : Full-time Full Stack Developer role
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>🎟️ Event Ticketing & RBAC Platform</h3>
@@ -152,11 +181,9 @@ looking_for : Full-time Full Stack Developer role
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-<h3>💬 Nexus AI — Secure Multimodal Chat</h3>
+<h3>💬 Nexus AI: Secure Multimodal Chat</h3>
 
 <p>Conversational AI platform handling both text and image inputs.</p>
 
@@ -176,6 +203,8 @@ looking_for : Full-time Full Stack Developer role
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <h3>☕ Luxe & Ember Cafe</h3>
@@ -197,6 +226,7 @@ looking_for : Full-time Full Stack Developer role
 </p>
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
