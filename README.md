@@ -99,99 +99,103 @@ looking_for : Full-time Full Stack Developer role
 
 <table>
 <tr>
-<td valign="top">
-
-#### 🦉 WhySo Buddy — Voice-First AI Companion for Kids &nbsp; ![New](https://img.shields.io/badge/NEW-7f5af0?style=flat-square)
-A conversational AI built for children: they speak, and an animated character responds aloud in their own language.
- 
-**Feature highlights**
-- **Real-time speech-to-speech pipeline** — live voice input with interim transcript and auto-stop on silence, spoken replies with per-user pitch & speed control
-- **Multilingual by design** — replies automatically match the user's language (English, Hindi, Hinglish); prompts tuned for short, age-appropriate answers
-- **Resilient AI layer** — Groq multi-model fallback chain, so the user always gets a response even if a model fails
-- **Persistent memory** — per-user accounts (SHA-256 + bcrypt, session tokens), searchable chat history on SQLite, and context carried across sessions
-- **Expressive character system** — five hand-built animated SVG mascots that react to listening, thinking and speaking states
-  
-`React` `Vite` `Node.js` `Express` `SQLite` `Groq` `Web Speech API` `Web Audio API`
-
-[🔗 Live Demo](https://kids-ai-sts.onrender.com) · [💻 Code](https://github.com/archanathakur86/Kids-AI-STS-)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
-  <h3>🧾 ClientSphere: Freelancer Client Workspace</h3>
-  <p>
-    One calm place for client work: paste a client's brief and get milestones, prices and scope with AI,
-    then share a private portal where clients approve work without creating an account.
-  </p>
-  <ul>
-    <li><b>Brief to proposal</b>: Groq JSON-mode prompting turns a client email into editable milestones, amounts, due dates and assumptions</li>
-    <li><b>Magic-link client portal</b>: approvals, change requests, and screenshot or file attachments, with no client accounts</li>
-    <li><b>AI progress updates</b> and <b>scope-creep detection</b> on every client message, with a polite reply ready to copy</li>
-    <li><b>Real-time collaboration</b>: Socket.io notifications, @mentions, presence, and deep links into the right project tab</li>
-    <li><b>Search with sources</b>: exact and semantic matching across notes, files, messages, milestones and tasks</li>
-    <li><b>Email invites over HTTPS</b> via Brevo, and Stripe Checkout with webhook-driven invoice status</li>
-  </ul>
-  <p>
-    <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-    <code>Socket.io</code> <code>Groq</code> <code>Stripe</code> <code>Cloudinary</code> <code>Brevo</code>
-  </p>
-  <p>
-    <a href="https://frontend-mu-lemon-65.vercel.app">🔗 Live Demo</a> ·
-    <a href="https://github.com/archanathakur86/WhySo---AI-powered-Collaboration">💻 Code</a>
-  </p>
+
+<h3>🧾 ClientSphere: Freelancer Client Workspace</h3>
+
+<p>
+  One calm place for client work: paste a client's brief and get milestones, prices and scope with AI,
+  then share a private portal where clients approve work without creating an account.
+</p>
+
+<ul>
+  <li><b>Brief to proposal</b>: Groq JSON-mode prompting turns a client email into editable milestones, amounts, due dates and assumptions</li>
+  <li><b>Magic-link client portal</b>: approvals, change requests, and screenshot or file attachments, with no client accounts</li>
+  <li><b>AI progress updates</b> and <b>scope-creep detection</b> on every client message, with a polite reply ready to copy</li>
+  <li><b>Real-time collaboration</b>: Socket.io notifications, @mentions, presence, and deep links into the right project tab</li>
+  <li><b>Search with sources</b>: exact and semantic matching across notes, files, messages, milestones and tasks</li>
+  <li><b>Email invites over HTTPS</b> via Brevo, and Stripe Checkout with webhook-driven invoice status</li>
+</ul>
+
+<p>
+  <code>React</code> <code>Vite</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+  <code>Socket.io</code> <code>Groq</code> <code>Stripe</code> <code>Cloudinary</code> <code>Brevo</code>
+</p>
+
+<p>
+  <a href="https://frontend-mu-lemon-65.vercel.app">🔗 Live Demo</a> ·
+  <a href="https://github.com/archanathakur86/WhySo---AI-powered-Collaboration">💻 Code</a>
+</p>
+
 </td>
 <td width="50%" valign="top">
 
-<td valign="top" width="50%">
-  <h3>🎟️ Event Ticketing & RBAC Platform</h3>
-  <p>
-    Production ticketing platform built during my internship at Pihow Services and deployed on AWS EC2.
-    Built for organisers and attendees, with strict role boundaries and payments that cannot be spoofed.
-  </p>
-  <ul>
-    <li><b>4-tier RBAC</b>: Super Admin, Coordinator, Student and Administration roles, with event-ownership checks on every action</li>
-    <li><b>PayU payments</b>: SHA-512 signed requests, and webhook verification that rejects fake callbacks</li>
-    <li><b>No overbooking</b>: atomic MongoDB updates, so seats stay correct even when many users book at once</li>
-    <li><b>PDF tickets with QR codes</b>, QR check-in, bulk export, and a CSV report joining ticket, payment and attendance data</li>
-    <li><b>Secure auth</b>: HttpOnly-cookie JWT with bcrypt, login and logout audit logs, and bulk email notifications</li>
-    <li><b>9 REST API modules</b> with a React frontend (Zustand state, QR scanner, Recharts admin dashboards)</li>
-  </ul>
-  <p>
-    <code>React</code> <code>Zustand</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-    <code>JWT</code> <code>bcrypt</code> <code>PayU</code> <code>Recharts</code> <code>AWS EC2</code>
-  </p>
-</td>
+<h3>🎟️ Event Ticketing & RBAC Platform</h3>
 
-#### 💬 Nexus AI — Secure Multimodal Chat
-Conversational AI platform handling both text and image inputs.
+<p>
+  Production ticketing platform built during my internship at Pihow Services and deployed on AWS EC2.
+  Built for organisers and attendees, with strict role boundaries and payments that cannot be spoofed.
+</p>
 
-- **Node.js reverse proxy** hides AI API credentials from the client
-- Async **streaming pipeline** for sub-second token latency
-- **FastAPI** service for multimodal (text + image) processing
+<ul>
+  <li><b>4-tier RBAC</b>: Super Admin, Coordinator, Student and Administration roles, with event-ownership checks on every action</li>
+  <li><b>PayU payments</b>: SHA-512 signed requests, and webhook verification that rejects fake callbacks</li>
+  <li><b>No overbooking</b>: atomic MongoDB updates, so seats stay correct even when many users book at once</li>
+  <li><b>PDF tickets with QR codes</b>, QR check-in, bulk export, and a CSV report joining ticket, payment and attendance data</li>
+  <li><b>Secure auth</b>: HttpOnly-cookie JWT with bcrypt, login and logout audit logs, and bulk email notifications</li>
+  <li><b>9 REST API modules</b> with a React frontend (Zustand state, QR scanner, Recharts admin dashboards)</li>
+</ul>
 
-`React` `Node.js` `Python` `FastAPI` `LLM`
-
-[🔗 Live Demo](https://ai-assistant-murex-psi.vercel.app) · [💻 Code](https://github.com/archanathakur86/AI-assistant)
+<p>
+  <code>React</code> <code>Zustand</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+  <code>JWT</code> <code>bcrypt</code> <code>PayU</code> <code>Recharts</code> <code>AWS EC2</code>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### ☕ Luxe & Ember Cafe
-High-performance cafe website — **no framework**.
+<h3>💬 Nexus AI — Secure Multimodal Chat</h3>
 
-- Semantic HTML, modern CSS, vanilla JS
-- **98+ Google Lighthouse score**
+<p>Conversational AI platform handling both text and image inputs.</p>
 
-`HTML` `CSS` `JavaScript`
+<ul>
+  <li><b>Node.js reverse proxy</b> hides AI API credentials from the client</li>
+  <li>Async <b>streaming pipeline</b> for sub-second token latency</li>
+  <li><b>FastAPI</b> service for multimodal (text + image) processing</li>
+</ul>
 
+<p>
+  <code>React</code> <code>Node.js</code> <code>Python</code> <code>FastAPI</code> <code>LLM</code>
+</p>
 
-[🔗 Live Demo](https://embercafe.netlify.app) · [💻 Code](https://github.com/archanathakur86/Ember-cafe)
+<p>
+  <a href="https://ai-assistant-murex-psi.vercel.app">🔗 Live Demo</a> ·
+  <a href="https://github.com/archanathakur86/AI-assistant">💻 Code</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>☕ Luxe & Ember Cafe</h3>
+
+<p>High-performance cafe website, <b>no framework</b>.</p>
+
+<ul>
+  <li>Semantic HTML, modern CSS, vanilla JS</li>
+  <li><b>98+ Google Lighthouse score</b></li>
+</ul>
+
+<p>
+  <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+</p>
+
+<p>
+  <a href="https://embercafe.netlify.app">🔗 Live Demo</a> ·
+  <a href="https://github.com/archanathakur86/Ember-cafe">💻 Code</a>
+</p>
+
 </td>
 </tr>
 </table>
