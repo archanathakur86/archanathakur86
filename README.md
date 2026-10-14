@@ -173,7 +173,9 @@ A conversational AI built for children: they speak, and an animated character re
   <code>React</code> <code>Zustand</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
   <code>JWT</code> <code>bcrypt</code> <code>PayU</code> <code>Recharts</code> <code>AWS EC2</code>
 </p>
-
+<p>
+  <a href="https://github.com/archanathakur86/Event-Ticketing" >💻 Code</a>
+</p>
 </td>
 </tr>
 <tr>
